@@ -1,0 +1,497 @@
+K00003	Amino acid metabolism	Cysteine and methionine metabolism
+K00003	Amino acid metabolism	Glycine, serine and threonine metabolism
+K00003	Amino acid metabolism	Lysine biosynthesis
+K00008	Carbohydrate metabolism	Fructose and mannose metabolism
+K00008	Carbohydrate metabolism	Pentose and glucuronate interconversions
+K00010	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis
+K00010	Carbohydrate metabolism	Inositol phosphate metabolism
+K00012	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K00012	Carbohydrate metabolism	Ascorbate and aldarate metabolism
+K00012	Carbohydrate metabolism	Pentose and glucuronate interconversions
+K00012	Glycan biosynthesis and metabolism	O-Antigen nucleotide sugar biosynthesis
+K00016	Amino acid metabolism	Cysteine and methionine metabolism
+K00016	Carbohydrate metabolism	Glycolysis / Gluconeogenesis
+K00016	Carbohydrate metabolism	Propanoate metabolism
+K00016	Carbohydrate metabolism	Pyruvate metabolism
+K00031	Carbohydrate metabolism	Citrate cycle (TCA cycle)
+K00031	Energy metabolism	Carbon fixation pathways in prokaryotes
+K00031	Metabolism of other amino acids	Glutathione metabolism
+K00048	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism
+K00048	Carbohydrate metabolism	Propanoate metabolism
+K00058	Amino acid metabolism	Cysteine and methionine metabolism
+K00058	Amino acid metabolism	Glycine, serine and threonine metabolism
+K00058	Energy metabolism	Methane metabolism
+K00059	Biosynthesis of other secondary metabolites	Prodigiosin biosynthesis
+K00059	Lipid metabolism	Fatty acid biosynthesis
+K00059	Metabolism of cofactors and vitamins	Biotin metabolism
+K00059	Protein families: metabolism	Lipid biosynthesis proteins
+K00067	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis
+K00067	Glycan biosynthesis and metabolism	O-Antigen nucleotide sugar biosynthesis
+K00067	Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+K00077	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis
+K00078	Carbohydrate metabolism	Pentose and glucuronate interconversions
+K00078	Xenobiotics biodegradation and metabolism	Metabolism of xenobiotics by cytochrome P450
+K00088	Nucleotide metabolism	Purine metabolism
+K00088	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes
+K00133	Amino acid metabolism	Cysteine and methionine metabolism
+K00133	Amino acid metabolism	Glycine, serine and threonine metabolism
+K00133	Amino acid metabolism	Lysine biosynthesis
+K00133	Biosynthesis of other secondary metabolites	Monobactam biosynthesis
+K00134	Carbohydrate metabolism	Glycolysis / Gluconeogenesis
+K00134	Energy metabolism	Carbon fixation in photosynthetic organisms
+K00147	Amino acid metabolism	Arginine and proline metabolism
+K00147	Biosynthesis of other secondary metabolites	Carbapenem biosynthesis
+K00244	Carbohydrate metabolism	Butanoate metabolism
+K00244	Carbohydrate metabolism	Citrate cycle (TCA cycle)
+K00244	Carbohydrate metabolism	Pyruvate metabolism
+K00244	Energy metabolism	Carbon fixation pathways in prokaryotes
+K00244	Energy metabolism	Oxidative phosphorylation
+K00265	Amino acid metabolism	Alanine, aspartate and glutamate metabolism
+K00265	Energy metabolism	Nitrogen metabolism
+K00265	Protein families: metabolism	Peptidases and inhibitors
+K00266	Amino acid metabolism	Alanine, aspartate and glutamate metabolism
+K00266	Energy metabolism	Nitrogen metabolism
+K00275	Metabolism of cofactors and vitamins	Vitamin B6 metabolism
+K00287	Metabolism of cofactors and vitamins	Folate biosynthesis
+K00287	Metabolism of cofactors and vitamins	One carbon pool by folate
+K00382	Amino acid metabolism	Glycine, serine and threonine metabolism
+K00382	Amino acid metabolism	Lysine degradation
+K00382	Amino acid metabolism	Tryptophan metabolism
+K00382	Amino acid metabolism	Valine, leucine and isoleucine degradation
+K00382	Carbohydrate metabolism	Citrate cycle (TCA cycle)
+K00382	Carbohydrate metabolism	Glycolysis / Gluconeogenesis
+K00382	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism
+K00382	Carbohydrate metabolism	Propanoate metabolism
+K00382	Carbohydrate metabolism	Pyruvate metabolism
+K00384	Metabolism of other amino acids	Selenocompound metabolism
+K00390	Energy metabolism	Sulfur metabolism
+K00525	Nucleotide metabolism	Purine metabolism
+K00525	Nucleotide metabolism	Pyrimidine metabolism
+K00548	Amino acid metabolism	Cysteine and methionine metabolism
+K00548	Metabolism of cofactors and vitamins	One carbon pool by folate
+K00548	Metabolism of other amino acids	Selenocompound metabolism
+K00558	Amino acid metabolism	Cysteine and methionine metabolism
+K00560	Metabolism of cofactors and vitamins	One carbon pool by folate
+K00560	Nucleotide metabolism	Pyrimidine metabolism
+K00568	Metabolism of cofactors and vitamins	Ubiquinone and other terpenoid-quinone biosynthesis
+K00604	Metabolism of cofactors and vitamins	One carbon pool by folate
+K00609	Amino acid metabolism	Alanine, aspartate and glutamate metabolism
+K00609	Nucleotide metabolism	Pyrimidine metabolism
+K00640	Amino acid metabolism	Cysteine and methionine metabolism
+K00640	Energy metabolism	Sulfur metabolism
+K00645	Biosynthesis of other secondary metabolites	Prodigiosin biosynthesis
+K00645	Lipid metabolism	Fatty acid biosynthesis
+K00645	Protein families: metabolism	Lipid biosynthesis proteins
+K00651	Amino acid metabolism	Cysteine and methionine metabolism
+K00651	Energy metabolism	Sulfur metabolism
+K00655	Lipid metabolism	Glycerolipid metabolism
+K00655	Lipid metabolism	Glycerophospholipid metabolism
+K00655	Protein families: metabolism	Lipid biosynthesis proteins
+K00656	Carbohydrate metabolism	Butanoate metabolism
+K00656	Carbohydrate metabolism	Propanoate metabolism
+K00656	Carbohydrate metabolism	Pyruvate metabolism
+K00657	Amino acid metabolism	Arginine and proline metabolism
+K00682	Metabolism of other amino acids	Glutathione metabolism
+K00705	Carbohydrate metabolism	Starch and sucrose metabolism
+K00757	Nucleotide metabolism	Pyrimidine metabolism
+K00757	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes
+K00760	Nucleotide metabolism	Purine metabolism
+K00760	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes
+K00762	Nucleotide metabolism	Pyrimidine metabolism
+K00763	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism
+K00768	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K00789	Amino acid metabolism	Cysteine and methionine metabolism
+K00798	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K00806	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis
+K00806	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis
+K00806	Protein families: metabolism	Prenyltransferases
+K00820	Amino acid metabolism	Alanine, aspartate and glutamate metabolism
+K00820	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K00820	Protein families: metabolism	Peptidases and inhibitors
+K00821	Amino acid metabolism	Arginine biosynthesis
+K00821	Amino acid metabolism	Lysine biosynthesis
+K00821	Protein families: metabolism	Amino acid related enzymes
+K00826	Amino acid metabolism	Cysteine and methionine metabolism
+K00826	Amino acid metabolism	Valine, leucine and isoleucine biosynthesis
+K00826	Amino acid metabolism	Valine, leucine and isoleucine degradation
+K00826	Biosynthesis of other secondary metabolites	Glucosinolate biosynthesis
+K00826	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis
+K00826	Protein families: metabolism	Amino acid related enzymes
+K00831	Amino acid metabolism	Cysteine and methionine metabolism
+K00831	Amino acid metabolism	Glycine, serine and threonine metabolism
+K00831	Energy metabolism	Methane metabolism
+K00831	Metabolism of cofactors and vitamins	Vitamin B6 metabolism
+K00831	Protein families: metabolism	Amino acid related enzymes
+K00847	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K00847	Carbohydrate metabolism	Fructose and mannose metabolism
+K00847	Carbohydrate metabolism	Starch and sucrose metabolism
+K00849	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K00849	Carbohydrate metabolism	Galactose metabolism
+K00854	Carbohydrate metabolism	Pentose and glucuronate interconversions
+K00857	Nucleotide metabolism	Pyrimidine metabolism
+K00857	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes
+K00865	Amino acid metabolism	Glycine, serine and threonine metabolism
+K00865	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism
+K00865	Lipid metabolism	Glycerolipid metabolism
+K00868	Metabolism of cofactors and vitamins	Vitamin B6 metabolism
+K00873	Carbohydrate metabolism	Glycolysis / Gluconeogenesis
+K00873	Carbohydrate metabolism	Pyruvate metabolism
+K00873	Nucleotide metabolism	Purine metabolism
+K00891	Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis
+K00928	Amino acid metabolism	Cysteine and methionine metabolism
+K00928	Amino acid metabolism	Glycine, serine and threonine metabolism
+K00928	Amino acid metabolism	Lysine biosynthesis
+K00928	Biosynthesis of other secondary metabolites	Monobactam biosynthesis
+K00939	Metabolism of cofactors and vitamins	Thiamine metabolism
+K00939	Nucleotide metabolism	Purine metabolism
+K00941	Metabolism of cofactors and vitamins	Thiamine metabolism
+K00942	Nucleotide metabolism	Purine metabolism
+K00945	Nucleotide metabolism	Pyrimidine metabolism
+K00948	Carbohydrate metabolism	Pentose phosphate pathway
+K00948	Nucleotide metabolism	Purine metabolism
+K00954	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis
+K00957	Biosynthesis of other secondary metabolites	Monobactam biosynthesis
+K00957	Energy metabolism	Sulfur metabolism
+K00957	Metabolism of other amino acids	Selenocompound metabolism
+K00957	Nucleotide metabolism	Purine metabolism
+K00965	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K00965	Carbohydrate metabolism	Galactose metabolism
+K00969	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism
+K00975	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K00975	Carbohydrate metabolism	Starch and sucrose metabolism
+K00996	Protein families: metabolism	Lipopolysaccharide biosynthesis proteins
+K01000	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis
+K01000	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K01006	Carbohydrate metabolism	Glycolysis / Gluconeogenesis
+K01006	Carbohydrate metabolism	Pyruvate metabolism
+K01006	Energy metabolism	Carbon fixation in photosynthetic organisms
+K01006	Energy metabolism	Carbon fixation pathways in prokaryotes
+K01039	Carbohydrate metabolism	Butanoate metabolism
+K01039	Xenobiotics biodegradation and metabolism	Styrene degradation
+K01051	Carbohydrate metabolism	Pentose and glucuronate interconversions
+K01055	Xenobiotics biodegradation and metabolism	Benzoate degradation
+K01069	Carbohydrate metabolism	Pyruvate metabolism
+K01079	Amino acid metabolism	Glycine, serine and threonine metabolism
+K01079	Energy metabolism	Methane metabolism
+K01079	Protein families: metabolism	Protein phosphatases and associated proteins
+K01081	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism
+K01081	Nucleotide metabolism	Purine metabolism
+K01081	Nucleotide metabolism	Pyrimidine metabolism
+K01087	Carbohydrate metabolism	Starch and sucrose metabolism
+K01091	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism
+K01096	Lipid metabolism	Glycerophospholipid metabolism
+K01126	Lipid metabolism	Glycerophospholipid metabolism
+K01129	Nucleotide metabolism	Purine metabolism
+K01139	Nucleotide metabolism	Purine metabolism
+K01176	Carbohydrate metabolism	Starch and sucrose metabolism
+K01179	Carbohydrate metabolism	Starch and sucrose metabolism
+K01187	Carbohydrate metabolism	Galactose metabolism
+K01187	Carbohydrate metabolism	Starch and sucrose metabolism
+K01190	Carbohydrate metabolism	Galactose metabolism
+K01190	Glycan biosynthesis and metabolism	Other glycan degradation
+K01190	Lipid metabolism	Sphingolipid metabolism
+K01208	Carbohydrate metabolism	Starch and sucrose metabolism
+K01218	Carbohydrate metabolism	Fructose and mannose metabolism
+K01223	Carbohydrate metabolism	Glycolysis / Gluconeogenesis
+K01223	Carbohydrate metabolism	Starch and sucrose metabolism
+K01243	Amino acid metabolism	Cysteine and methionine metabolism
+K01258	Protein families: metabolism	Peptidases and inhibitors
+K01262	Protein families: metabolism	Peptidases and inhibitors
+K01267	Protein families: metabolism	Peptidases and inhibitors
+K01271	Protein families: metabolism	Peptidases and inhibitors
+K01273	Protein families: metabolism	Peptidases and inhibitors
+K01308	Protein families: metabolism	Peptidases and inhibitors
+K01338	Protein families: metabolism	Peptidases and inhibitors
+K01356	Protein families: metabolism	Peptidases and inhibitors
+K01358	Protein families: metabolism	Peptidases and inhibitors
+K01439	Amino acid metabolism	Lysine biosynthesis
+K01439	Protein families: metabolism	Peptidases and inhibitors
+K01448	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K01491	Energy metabolism	Carbon fixation pathways in prokaryotes
+K01491	Metabolism of cofactors and vitamins	One carbon pool by folate
+K01493	Nucleotide metabolism	Pyrimidine metabolism
+K01494	Nucleotide metabolism	Pyrimidine metabolism
+K01495	Metabolism of cofactors and vitamins	Folate biosynthesis
+K01515	Nucleotide metabolism	Purine metabolism
+K01520	Nucleotide metabolism	Pyrimidine metabolism
+K01520	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes
+K01586	Amino acid metabolism	Lysine biosynthesis
+K01591	Nucleotide metabolism	Pyrimidine metabolism
+K01626	Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis
+K01652	Amino acid metabolism	Valine, leucine and isoleucine biosynthesis
+K01652	Carbohydrate metabolism	Butanoate metabolism
+K01652	Carbohydrate metabolism	C5-Branched dibasic acid metabolism
+K01652	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis
+K01653	Amino acid metabolism	Valine, leucine and isoleucine biosynthesis
+K01653	Carbohydrate metabolism	Butanoate metabolism
+K01653	Carbohydrate metabolism	C5-Branched dibasic acid metabolism
+K01653	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis
+K01662	Metabolism of cofactors and vitamins	Thiamine metabolism
+K01662	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis
+K01666	Amino acid metabolism	Phenylalanine metabolism
+K01666	Xenobiotics biodegradation and metabolism	Benzoate degradation
+K01666	Xenobiotics biodegradation and metabolism	Dioxin degradation
+K01666	Xenobiotics biodegradation and metabolism	Xylene degradation
+K01689	Carbohydrate metabolism	Glycolysis / Gluconeogenesis
+K01689	Energy metabolism	Methane metabolism
+K01710	Biosynthesis of other secondary metabolites	Acarbose and validamycin biosynthesis
+K01710	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis
+K01710	Glycan biosynthesis and metabolism	O-Antigen nucleotide sugar biosynthesis
+K01710	Metabolism of terpenoids and polyketides	Biosynthesis of vancomycin group antibiotics
+K01710	Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+K01737	Metabolism of cofactors and vitamins	Folate biosynthesis
+K01738	Amino acid metabolism	Cysteine and methionine metabolism
+K01738	Energy metabolism	Sulfur metabolism
+K01752	Amino acid metabolism	Cysteine and methionine metabolism
+K01752	Amino acid metabolism	Glycine, serine and threonine metabolism
+K01759	Carbohydrate metabolism	Pyruvate metabolism
+K01768	Nucleotide metabolism	Purine metabolism
+K01775	Metabolism of other amino acids	D-Alanine metabolism
+K01775	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K01783	Carbohydrate metabolism	Pentose and glucuronate interconversions
+K01783	Carbohydrate metabolism	Pentose phosphate pathway
+K01783	Energy metabolism	Carbon fixation in photosynthetic organisms
+K01784	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K01784	Carbohydrate metabolism	Galactose metabolism
+K01784	Glycan biosynthesis and metabolism	O-Antigen nucleotide sugar biosynthesis
+K01790	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis
+K01790	Glycan biosynthesis and metabolism	O-Antigen nucleotide sugar biosynthesis
+K01790	Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+K01812	Carbohydrate metabolism	Pentose and glucuronate interconversions
+K01814	Amino acid metabolism	Histidine metabolism
+K01819	Carbohydrate metabolism	Galactose metabolism
+K01834	Amino acid metabolism	Glycine, serine and threonine metabolism
+K01834	Carbohydrate metabolism	Glycolysis / Gluconeogenesis
+K01834	Energy metabolism	Methane metabolism
+K01835	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis
+K01835	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K01835	Carbohydrate metabolism	Galactose metabolism
+K01835	Carbohydrate metabolism	Glycolysis / Gluconeogenesis
+K01835	Carbohydrate metabolism	Pentose phosphate pathway
+K01835	Carbohydrate metabolism	Starch and sucrose metabolism
+K01835	Nucleotide metabolism	Purine metabolism
+K01838	Carbohydrate metabolism	Starch and sucrose metabolism
+K01866	Protein families: metabolism	Amino acid related enzymes
+K01873	Protein families: metabolism	Amino acid related enzymes
+K01876	Protein families: metabolism	Amino acid related enzymes
+K01880	Protein families: metabolism	Amino acid related enzymes
+K01886	Protein families: metabolism	Amino acid related enzymes
+K01892	Protein families: metabolism	Amino acid related enzymes
+K01893	Protein families: metabolism	Amino acid related enzymes
+K01897	Lipid metabolism	Fatty acid biosynthesis
+K01897	Lipid metabolism	Fatty acid degradation
+K01897	Protein families: metabolism	Lipid biosynthesis proteins
+K01915	Amino acid metabolism	Alanine, aspartate and glutamate metabolism
+K01915	Amino acid metabolism	Arginine biosynthesis
+K01915	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism
+K01915	Energy metabolism	Nitrogen metabolism
+K01916	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism
+K01921	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis
+K01921	Metabolism of other amino acids	D-Alanine metabolism
+K01921	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K01925	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis
+K01925	Metabolism of other amino acids	D-Glutamine and D-glutamate metabolism
+K01925	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K01928	Amino acid metabolism	Lysine biosynthesis
+K01928	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis
+K01928	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K01937	Nucleotide metabolism	Pyrimidine metabolism
+K01939	Amino acid metabolism	Alanine, aspartate and glutamate metabolism
+K01939	Nucleotide metabolism	Purine metabolism
+K01950	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism
+K01951	Nucleotide metabolism	Purine metabolism
+K01951	Protein families: metabolism	Peptidases and inhibitors
+K01951	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes
+K01953	Amino acid metabolism	Alanine, aspartate and glutamate metabolism
+K01953	Protein families: metabolism	Peptidases and inhibitors
+K01955	Amino acid metabolism	Alanine, aspartate and glutamate metabolism
+K01955	Nucleotide metabolism	Pyrimidine metabolism
+K02078	Biosynthesis of other secondary metabolites	Biosynthesis of various secondary metabolites - part 2
+K02078	Lipid metabolism	Fatty acid biosynthesis
+K02109	Energy metabolism	Oxidative phosphorylation
+K02109	Energy metabolism	Photosynthesis
+K02109	Protein families: metabolism	Photosynthesis proteins
+K02172	Protein families: metabolism	Peptidases and inhibitors
+K02224	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K02226	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K02231	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K02233	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K02428	Nucleotide metabolism	Purine metabolism
+K02484	Protein families: metabolism	Protein kinases
+K02495	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K02500	Amino acid metabolism	Histidine metabolism
+K02501	Amino acid metabolism	Histidine metabolism
+K02510	Amino acid metabolism	Tyrosine metabolism
+K02654	Protein families: metabolism	Peptidases and inhibitors
+K02823	Nucleotide metabolism	Pyrimidine metabolism
+K03077	Carbohydrate metabolism	Ascorbate and aldarate metabolism
+K03077	Carbohydrate metabolism	Pentose and glucuronate interconversions
+K03100	Protein families: metabolism	Peptidases and inhibitors
+K03101	Protein families: metabolism	Peptidases and inhibitors
+K03148	Folding, sorting and degradation	Sulfur relay system
+K03148	Metabolism of cofactors and vitamins	Thiamine metabolism
+K03183	Metabolism of cofactors and vitamins	Ubiquinone and other terpenoid-quinone biosynthesis
+K03271	Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis
+K03271	Protein families: metabolism	Lipopolysaccharide biosynthesis proteins
+K03337	Carbohydrate metabolism	Inositol phosphate metabolism
+K03431	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K03462	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism
+K03465	Metabolism of cofactors and vitamins	One carbon pool by folate
+K03465	Nucleotide metabolism	Pyrimidine metabolism
+K03476	Carbohydrate metabolism	Ascorbate and aldarate metabolism
+K03503	Protein families: metabolism	Peptidases and inhibitors
+K03639	Folding, sorting and degradation	Sulfur relay system
+K03639	Metabolism of cofactors and vitamins	Folate biosynthesis
+K03707	Metabolism of cofactors and vitamins	Thiamine metabolism
+K03785	Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis
+K03797	Protein families: metabolism	Peptidases and inhibitors
+K03798	Protein families: metabolism	Peptidases and inhibitors
+K03799	Protein families: metabolism	Peptidases and inhibitors
+K03816	Nucleotide metabolism	Purine metabolism
+K04034	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K04042	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K04042	Glycan biosynthesis and metabolism	O-Antigen nucleotide sugar biosynthesis
+K04079	Protein families: metabolism	Protein phosphatases and associated proteins
+K04486	Amino acid metabolism	Histidine metabolism
+K04487	Folding, sorting and degradation	Sulfur relay system
+K04487	Metabolism of cofactors and vitamins	Thiamine metabolism
+K04567	Protein families: metabolism	Amino acid related enzymes
+K04771	Protein families: metabolism	Peptidases and inhibitors
+K04773	Protein families: metabolism	Peptidases and inhibitors
+K05349	Biosynthesis of other secondary metabolites	Phenylpropanoid biosynthesis
+K05349	Carbohydrate metabolism	Starch and sucrose metabolism
+K05349	Metabolism of other amino acids	Cyanoamino acid metabolism
+K05366	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis
+K05366	Protein families: metabolism	Glycosyltransferases
+K05366	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K05825	Amino acid metabolism	Lysine biosynthesis
+K05826	Amino acid metabolism	Arginine biosynthesis
+K05826	Amino acid metabolism	Lysine biosynthesis
+K05995	Protein families: metabolism	Peptidases and inhibitors
+K06131	Lipid metabolism	Glycerophospholipid metabolism
+K06133	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis
+K06167	Metabolism of other amino acids	Phosphonate and phosphinate metabolism
+K06336	Protein families: metabolism	Peptidases and inhibitors
+K06399	Protein families: metabolism	Peptidases and inhibitors
+K06881	Energy metabolism	Sulfur metabolism
+K06920	Metabolism of cofactors and vitamins	Folate biosynthesis
+K06949	Metabolism of cofactors and vitamins	Thiamine metabolism
+K06972	Protein families: metabolism	Peptidases and inhibitors
+K07010	Protein families: metabolism	Peptidases and inhibitors
+K07029	Lipid metabolism	Glycerolipid metabolism
+K07029	Lipid metabolism	Glycerophospholipid metabolism
+K07154	Protein families: metabolism	Protein kinases
+K07258	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis
+K07258	Protein families: metabolism	Peptidases and inhibitors
+K07258	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K07263	Protein families: metabolism	Peptidases and inhibitors
+K07284	Protein families: metabolism	Peptidases and inhibitors
+K07284	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K07407	Carbohydrate metabolism	Galactose metabolism
+K07407	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - globo and isoglobo series
+K07407	Lipid metabolism	Glycerolipid metabolism
+K07407	Lipid metabolism	Sphingolipid metabolism
+K07636	Protein families: metabolism	Protein kinases
+K07646	Protein families: metabolism	Protein kinases
+K07706	Protein families: metabolism	Protein kinases
+K07718	Protein families: metabolism	Protein kinases
+K07768	Protein families: metabolism	Protein kinases
+K07813	Protein families: metabolism	Peptidases and inhibitors
+K07816	Nucleotide metabolism	Purine metabolism
+K08281	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism
+K08303	Protein families: metabolism	Peptidases and inhibitors
+K08309	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K08591	Lipid metabolism	Glycerolipid metabolism
+K08591	Lipid metabolism	Glycerophospholipid metabolism
+K08591	Protein families: metabolism	Lipid biosynthesis proteins
+K08600	Protein families: metabolism	Peptidases and inhibitors
+K08600	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K08640	Protein families: metabolism	Peptidases and inhibitors
+K08640	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K08678	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K08722	Nucleotide metabolism	Pyrimidine metabolism
+K09458	Lipid metabolism	Fatty acid biosynthesis
+K09458	Metabolism of cofactors and vitamins	Biotin metabolism
+K09458	Protein families: metabolism	Lipid biosynthesis proteins
+K09882	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K09883	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K09933	Protein families: metabolism	Peptidases and inhibitors
+K10026	Metabolism of cofactors and vitamins	Folate biosynthesis
+K10804	Lipid metabolism	Biosynthesis of unsaturated fatty acids
+K10804	Protein families: metabolism	Lipid biosynthesis proteins
+K11527	Protein families: metabolism	Protein kinases
+K11717	Metabolism of other amino acids	Selenocompound metabolism
+K11751	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism
+K11751	Nucleotide metabolism	Purine metabolism
+K11751	Nucleotide metabolism	Pyrimidine metabolism
+K12132	Protein families: metabolism	Protein kinases
+K12251	Amino acid metabolism	Arginine and proline metabolism
+K12410	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism
+K12941	Protein families: metabolism	Peptidases and inhibitors
+K13280	Protein families: metabolism	Peptidases and inhibitors
+K13694	Protein families: metabolism	Peptidases and inhibitors
+K13694	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K13963	Protein families: metabolism	Peptidases and inhibitors
+K15633	Amino acid metabolism	Glycine, serine and threonine metabolism
+K15633	Carbohydrate metabolism	Glycolysis / Gluconeogenesis
+K15633	Energy metabolism	Methane metabolism
+K15894	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K15894	Glycan biosynthesis and metabolism	O-Antigen nucleotide sugar biosynthesis
+K15921	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism
+K17248	Protein families: metabolism	Glycosyltransferases
+K17398	Amino acid metabolism	Cysteine and methionine metabolism
+K17487	Metabolism of cofactors and vitamins	Folate biosynthesis
+K17733	Protein families: metabolism	Peptidases and inhibitors
+K17733	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K17734	Protein families: metabolism	Peptidases and inhibitors
+K17828	Nucleotide metabolism	Pyrimidine metabolism
+K18345	Protein families: metabolism	Protein kinases
+K18350	Protein families: metabolism	Protein kinases
+K18770	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis
+K18770	Protein families: metabolism	Glycosyltransferases
+K18770	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K19224	Protein families: metabolism	Peptidases and inhibitors
+K19224	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K19302	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis
+K19302	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K19303	Protein families: metabolism	Peptidases and inhibitors
+K19303	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K19304	Protein families: metabolism	Peptidases and inhibitors
+K19304	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K19353	Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis
+K19353	Protein families: metabolism	Lipopolysaccharide biosynthesis proteins
+K19425	Protein families: metabolism	Glycosyltransferases
+K19664	Lipid metabolism	Glycerophospholipid metabolism
+K19694	Protein families: metabolism	Protein kinases
+K20074	Protein families: metabolism	Protein phosphatases and associated proteins
+K20509	Carbohydrate metabolism	Butanoate metabolism
+K20509	Carbohydrate metabolism	Pyruvate metabolism
+K20509	Xenobiotics biodegradation and metabolism	Benzoate degradation
+K20534	Protein families: metabolism	Lipopolysaccharide biosynthesis proteins
+K20861	Metabolism of cofactors and vitamins	Riboflavin metabolism
+K20866	Carbohydrate metabolism	Glycolysis / Gluconeogenesis
+K20974	Protein families: metabolism	Protein kinases
+K21029	Folding, sorting and degradation	Sulfur relay system
+K21064	Metabolism of cofactors and vitamins	Riboflavin metabolism
+K21138	Nucleotide metabolism	Purine metabolism
+K21147	Folding, sorting and degradation	Sulfur relay system
+K21471	Protein families: metabolism	Peptidases and inhibitors
+K21471	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K21472	Protein families: metabolism	Peptidases and inhibitors
+K21472	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins
+K21636	Nucleotide metabolism	Purine metabolism
+K21636	Nucleotide metabolism	Pyrimidine metabolism
+K22226	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K22227	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism
+K22450	Amino acid metabolism	Tryptophan metabolism
+K22477	Amino acid metabolism	Arginine biosynthesis
+K22708	Protein families: metabolism	Glycosyltransferases
+K22954	Amino acid metabolism	Cysteine and methionine metabolism
+K23144	Biosynthesis of other secondary metabolites	Acarbose and validamycin biosynthesis
+K23144	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis
+K23144	Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+K23351	Carbohydrate metabolism	Butanoate metabolism
+K23351	Xenobiotics biodegradation and metabolism	Benzoate degradation
+K23684	Protein families: metabolism	Glycosyltransferases
+K24041	Biosynthesis of other secondary metabolites	Penicillin and cephalosporin biosynthesis
+K24041	Protein families: metabolism	Peptidases and inhibitors
